@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/description_background"
+    android:orientation="vertical"
+    tools:context="com.example.android.amsterdamtour.MainActivity">
+
+    <ImageView
+        android:id="@+id/place_image_view"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_gravity="center"
+        android:layout_weight="5"
+        android:contentDescription="Places Image"
+        android:padding="5dp"
+        android:scaleType="centerCrop"
+        android:src="@drawable/anne_frank_house" />
+
+    <TextView
+        android:id="@+id/name_place_text_view"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:gravity="center_vertical"
+        android:paddingLeft="5dp"
+        android:textColor="@android:color/black"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        tools:text="Anne Frank House" />
+
+    <TextView
+        android:id="@+id/description_place_text_view"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="4"
+        android:gravity="start"
+        android:paddingLeft="5dp"
+        android:textColor="@android:color/black"
+        android:textSize="12sp"
+        tools:text="The Anne Frank House (Dutch: Anne Frank Huis) is a writer's house and biographical museum dedicated to Jewish wartime diarist Anne Frank." />
+
+    <TableLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="2">
+
+        <TableRow
+            android:paddingBottom="5dp"
+            android:paddingLeft="5dp"
+            android:paddingTop="5dp">
+
+            <ImageView
+                android:layout_width="@dimen/description_icon"
+                android:layout_height="@dimen/description_icon"
+                android:src="@drawable/website_icon" />
+
+            <TextView
+                android:id="@+id/website_place_text_view"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:autoLink="web"
+                android:gravity="center_vertical"
+                android:paddingLeft="5dp"
+                android:textColor="@android:color/black"
+                android:textSize="12sp"
+                tools:text="http://www.annefrank.org/nl/" />
+        </TableRow>
+
+        <TableRow
+            android:paddingBottom="5dp"
+            android:paddingLeft="5dp">
+
+            <ImageView
+                android:layout_width="@dimen/description_icon"
+                android:layout_height="@dimen/description_icon"
+                android:src="@drawable/location_icon" />
+
+            <TextView
+                android:id="@+id/location_text_view"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:autoLink="web"
+                android:gravity="center_vertical"
+                android:paddingLeft="5dp"
+                android:textColor="@android:color/black"
+                android:textSize="12sp"
+                tools:text="maps.google.com/?q=52.375316,4.884055" />
+        </TableRow>
+    </TableLayout>
+
+</LinearLayout>

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Amsterdam Tour</string>
+
+    <string name="category_museum">Museum</string>
+    <string name="category_park">Park</string>
+    <string name="category_restaurant">Restaurant</string>
+    <string name="category_others">Other</string>
+
+    <string name="description_place">Description</string>
+
+</resources>

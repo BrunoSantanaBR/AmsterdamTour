@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Layout for a single list item -->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/list_item_height"
+    android:background="@color/listItem_background"
+    android:minHeight="@dimen/list_item_height">
+
+    <ImageView
+        android:id="@+id/place_image_view_list"
+        android:layout_weight="1"
+        android:layout_width="0dp"
+        android:layout_height="@dimen/list_item_height"
+        android:padding="6dp"
+        android:src="@drawable/anne_frank_house"/>
+
+    <TextView
+        android:id="@+id/name_place_text_view_list"
+        android:layout_weight="3"
+        android:layout_width="0dp"
+        android:layout_height="@dimen/list_item_height"
+        android:gravity="center_vertical"
+        android:textAppearance="?android:textAppearanceMedium"
+        android:textColor="@android:color/white"
+        android:textStyle="bold"
+        android:paddingLeft="5dp"
+        tools:text="Anne Frank House" />
+
+
+</LinearLayout>
