@@ -8,4 +8,85 @@
 
     <string name="description_place">Description</string>
 
+    <!--Museum Strings -->
+    <string name="museum_one_name">Anne Frank House</string>
+    <string name="museum_one_description">The Anne Frank House (Dutch: Anne Frank Huis) is a writers house and biographical museum dedicated to Jewish wartime diarist Anne Frank.The Anne Frank House (Dutch: Anne Frank Huis) is a writers house and biographical museum dedicated to Jewish wartime diarist Anne Frank. During World War II, Anne Frank hid from Nazi persecution with her family and four other people in hidden rooms at the rear of the 17th-century canal house, known as the Secret Annex (Dutch: Achterhuis).</string>
+    <string name="museum_one_website">http://www.annefrank.org/nl/</string>
+    <string name="museum_two_name">Amsterdam Rijksmuseum</string>
+    <string name="museum_two_description">It is in 1800, that The Amsterdam Rijksmuseum opened first its collection to the public as the Nationale Kunstgallerij (National Art Gallery). Since then, it moved several times before being established in Amsterdam (1808) by the decree of the King of the Netherlands Louis Bonaparte, brother of Napoleon. Named then the Royal Museum, received in 1815 from the Dutch King Willem I its present name. In 1885 Rijksmuseum moved to its beautiful building, designed by the Dutch architect Petrus J.H. Cuypers.</string>
+    <string name="museum_two_website">https://www.rijksmuseum.nl/</string>
+    <string name="museum_three_name">Van Gogh Museum</string>
+    <string name="museum_three_description">The collection features the works of Vincent van Gogh – more than 200 painting, 500 drawings but also works of other artists, his contemporaries – Impressionists and Postimpressionists. Van Goghs work is organized chronologically into five periods, each representing a different period of his life and work: The Netherlands, Paris, Arles, Saint-Remy and Auvers-sur-Oise.</string>
+    <string name="museum_three_website">https://www.vangoghmuseum.nl</string>
+    <string name="museum_four_name">Stedelijk Museum</string>
+    <string name="museum_four_description">Established in 1895 as the municipal museum, the Stedelijk became only in 1938 the state museum, with its interests divided into many disciplines as art, objects documenting history of Amsterdam now in the collection of Amsterdam Museum and specific subjects as history of medicine. It is only at the beginning of 1970’s, that the Stedelijk became solely the modern art museum. Today the Stedelijk Museum in Amsterdam has one of the richest modern art collections in the world.</string>
+    <string name="museum_four_website">https://www.stedelijk.nl/</string>
+    <string name="museum_five_name">Rembrandt House Museum</string>
+    <string name="museum_five_description">In 1906, during the Rembrandt Year, the foundation has been established to buy the house of the painter. Three years later, after a thorough restoration, the Museum has been opened to the public. The Amsterdam Rembrandt House Museum is a reconstruction of the Rembrandt’s rooms and of his workshop. The furniture and objects from the epoch were carefully presented together with the prints, sculptures and a few paintings of other painters from the Rembrandts times.</string>
+    <string name="museum_five_website">https://www.rembrandthuis.nl/en/</string>
+    <string name="museum_six_name">Amsterdam Museum</string>
+    <string name="museum_six_description">The history of Amsterdam has been presented chronologically, on three floors of the museum with a huge respect for the tradition (remarkable paintings). This rich presentation has been made with an eye for different social aspects of the city life, its religions as well as urban folklore and diverse subcultures, including entertainment, prostitution and Ajax football fanaticism. Each year the museum presents an interesting temporary exhibit.</string>
+    <string name="museum_six_website">https://www.amsterdammuseum.nl/</string>
+    <string name="museum_seven_name">National Holocaust Museum</string>
+    <string name="museum_seven_description">Opposite the Hollandsche Schouwburg in the Jewish Cultural Quarter is the National Holocaust Museum. This building, once a teachers’ training college, was used by resistance workers during World War II to smuggle some 600 children out of captivity and get them to relatively safe hiding places. This historic site hosts temporary exhibitions that tell the story of the Holocaust: it is a story of exclusion, of persecution and murder, but also of rescues, survival, and solidarity.</string>
+    <string name="museum_seven_website">https://jck.nl/nhm</string>
+    <string name="museum_eight_name">National Maritime Museum</string>
+    <string name="museum_eight_description">The Amsterdam maritime museum building dates from 1656, it was designed by Daniël Stalpaert and at the time it was an architecture wonder. To construct it on the artificial island created in the Amsterdam harbor, 1800 wooden piles had to be sunk deep into the muddy ground. It is here, that the war ships of the Dutch Republic were equipped. They have the replica of the three masted “Amsterdam”, a large vessel of the Dutch East India Company.</string>
+    <string name="museum_eight_website">https://www.hetscheepvaartmuseum.nl</string>
+    <string name="museum_nine_name">NEMO Science Museum</string>
+    <string name="museum_nine_description">Amsterdam NEMO houses loads of experiments and exhibitions inside its giant green hull on Oosterdok. No matter your background you will learn something new and have fun while doing it. Attractions change regularly, check the homepage to get the latest word. You can find the open-air exhibition Energetica, a large terrace and a restaurant on the roof, all with beautiful views of the city of Amsterdam.</string>
+    <string name="museum_nine_website">https://www.nemosciencemuseum.nl/</string>
+
+    <!--Park Strings -->
+    <string name="park_one_name">Vondelpark</string>
+    <string name="park_one_description">The Vondelpark is Amsterdams most popular park, attracting thousands of tourists, residents and everyone in between every day. Amsterdams Vondelpark is home to a selection of restaurants and cafés, including the Blauwe Theehuis, Café Vertigo, Vondelpark3, De Vondeltuin and the Groot Melkhuis. Youll also find a skate rental shop, an open-air theatre and a rose garden with more than 70 types of roses in the park.</string>
+    <string name="park_one_website">https://www.iamsterdam.com/en/see-and-do/things-to-do/nature/overview/vondelpark</string>
+    <string name="park_two_name">Westerpark</string>
+    <string name="park_two_description">Located in Amsterdam West, the Westerpark is a wonderful place to walk, skate, relax or have a picnic with friends. This green expanse dotted with trees and ponds is part of the Westergasfabriek complex, a former gasworks that was completely renovated in recent years. Besides the park, this area is home to a nice selection of cafés, restaurants and bars, as well as an art-house cinema and a variety of small creative businesses.</string>
+    <string name="park_two_website">https://www.iamsterdam.com/en/see-and-do/things-to-do/nature/overview/westerpark</string>
+    <string name="park_three_name">Amstelpark</string>
+    <string name="park_three_description">Located the southern edge of Amsterdam, Amstelpark is an expansive park filled with a multitude of flower gardens, a playground and a petting zoo. There is also an on-site gallery with two exhibition spaces: the Glazen Huis (glass house) and the Orangerie.</string>
+    <string name="park_three_website">https://www.iamsterdam.com/en/see-and-do/things-to-do/nature/overview/amstelpark</string>
+    <string name="park_four_name">Rembrandtpark</string>
+    <string name="park_four_description">Located in Amsterdam West, the Rembrandtpark is an ideal place to sit out in the sun and enjoy a picnic. The park is a green oasis with ponds, playgrounds and walking and biking paths. You can also visit De Uylenburg, the oldest petting zoo in Amsterdam.</string>
+    <string name="park_four_website">https://www.iamsterdam.com/en/see-and-do/things-to-do/nature/overview/Rembrandtpark</string>
+    <string name="park_five_name">Flevopark</string>
+    <string name="park_five_description">Flevopark is situated on the east side of Amsterdam. This large green park is the perfect place to relax, go for a jog, play some sports or enjoy a picnic. During the summer months, you can visit the large outdoor swimming area, with a pool for swimming laps as well as a shallow pool for small children.</string>
+    <string name="park_five_website">https://www.iamsterdam.com/en/see-and-do/things-to-do/nature/overview/Flevopark</string>
+    <string name="park_six_name">Sarphatipark</string>
+    <string name="park_six_description">Just around the corner from the bustling Albert Cuyp market, the Sarphatipark is a green oasis in the heart of the city with a pond, fountain and enclosed playground. This small park is the perfect place to enjoy the sun, have a picnic with friends or just sit and people watch.</string>
+    <string name="park_six_website">https://www.iamsterdam.com/en/see-and-do/things-to-do/nature/overview/Sarphatipark</string>
+    <string name="park_seven_name">Oosterpark</string>
+    <string name="park_seven_description">The Oosterpark is a large city park located in Amsterdam Oost. This open green space is filled with ponds and streams, a wading pool for children and plenty of walking paths. Considered Amsterdam’s most multicultural park, it draws a diverse local crowd and hosts a variety of festivals throughout the summer.</string>
+    <string name="park_seven_website">https://www.iamsterdam.com/en/see-and-do/things-to-do/nature/overview/Oosterpark</string>
+
+    <!--Restaurant Strings -->
+    <string name="restaurant_one_name">In de Waag</string>
+    <string name="restaurant_one_description">In the part of Amsterdam that never sleeps you’ll find a square called ‘Nieuwmarkt’. This square has one gorgeous looking castle right in the centre, called ‘De Waag’ or formerly known as the St. Anthony’s Gate. Originally built in 1488, this characteristic monumental structure now houses Restaurant-Café. This magnificent historical building is illuminated by 300 candles.</string>
+    <string name="restaurant_one_website">https://www.indewaag.nl/</string>
+    <string name="restaurant_two_name">Me Naam Naan</string>
+    <string name="restaurant_two_description">In a warm ambiance you can enjoy our authentic Thai dishes that are served with a smile by our friendly Thai staff, dressed in Thai costumes.Thai restaurant Me Naam Naan is located in the centre of Amsterdam in the Koningsstraat 29, in a historical building dating back to 1604.</string>
+    <string name="restaurant_two_website">http://www.menaamnaan.nl/</string>
+    <string name="restaurant_three_name">Il Sogno</string>
+    <string name="restaurant_three_description">Best pizza in the Netherlands! I am a frequent visitor to Italy and know really good pizza restaurants there, and Il Sogno would fit right in at the top. The chef is indeed Italian but the non-Italian staff are just as good! Its a very nice place too, though it can be difficult to find a place to sit at the busiest hours.</string>
+    <string name="restaurant_three_website">https://il-sogno.nl/</string>
+    <string name="restaurant_four_name">Restaurant Van Beeren</string>
+    <string name="restaurant_four_description">Eetcafé Van Beeren is one of those rare gems that make the Amsterdam hospitality industry so varied and attractive. The business has a glorious past as a pub in the Nieuwmarkt neighborhood, where people often used to drink and drink until late at night. Where local residents, squatters, students and nightlife public meet each other and philosophize about politics, the life and the price of a beer while enjoying a drink.</string>
+    <string name="restaurant_four_website">http://www.eetcafevanbeeren.nl</string>
+    <string name="restaurant_five_name">Hoi Tin</string>
+    <string name="restaurant_five_description">Hoi Tin is a traditional Cantonese restaurant. With the oriental décor, one would feel like being in Southern China. With more than 100 seats, Hoi Tin is the perfect venue for a party or a nice gathering with the family. Hoi Tin has all the rice and noodle dishes one would expect of a traditional Chinese restaurant. Cha Sieuw, Soy Chicken and Peking Duck are dishes which we highly recommend.</string>
+    <string name="restaurant_five_website">http://www.restauranthoitin.com/en/index.php</string>
+    
+    <!--Other Strings -->
+    <string name="other_one_name">Heineken Experience</string>
+    <string name="other_one_description">Born in Amsterdam, raised by the world! For Heineken® fans like yourself, our original brewery in the city centre has been transformed into a sensational interactive tour.</string>
+    <string name="other_one_website">https://www.heineken.com/Heineken-Experience</string>
+    <string name="other_two_name">The Amsterdam Dungeon</string>
+    <string name="other_two_description">A uniquely thrilling attraction that will whisk you way back into the Netherlands’ most perilous past. See, hear, feel and (ahem) smell the chillingly amusing characters of the ‘bad old days’ as they come to life before you. Will you lose yourself in fear or in mirth? Which ever way, it’s not looking good for your underwear.</string>
+    <string name="other_two_website">https://www.thedungeons.com/amsterdam/en/</string>
+    <string name="other_three_name">The Canal Cruise</string>
+    <string name="other_three_description">Amsterdam Canal Cruises is an online platform for all canal cruises in Amsterdam. A day in Amsterdam isn’t complete without a cruise through the canals of Amsterdam: romantic during the evening with dinner or during the day with the kids. The best way to start of your journey in Amsterdam is by boat. Amsterdam Canal Cruises is a local expert and we love to share our insiders knowledge of the city with you. Since 2002 we help you experience the real Amsterdam. Together with you we continue to make great memories; the best souvenir to take home!</string>
+    <string name="other_three_website">https://amsterdamcanalcruises.nl/</string>
+
+
 </resources>

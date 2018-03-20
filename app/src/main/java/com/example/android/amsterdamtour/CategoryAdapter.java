@@ -13,6 +13,7 @@ public class CategoryAdapter extends FragmentPagerAdapter {
 
     /** Context of the app */
     private Context mContext;
+    public static final int MAX_VIEW_TAB = 4;
 
     /**
      * Create a new {@link CategoryAdapter} object.
@@ -47,7 +48,7 @@ public class CategoryAdapter extends FragmentPagerAdapter {
      */
     @Override
     public int getCount() {
-        return 4;
+        return MAX_VIEW_TAB;
     }
 
     @Override
